@@ -28,4 +28,4 @@ Para ejecutar el programa, ejecutar la instrucción:
 make ejecutarToroide
 ```
 ## Informe
-Todos las explicaciones pertinentes del diseño del programa y como ejecutarlo, están reflejadas en el [informe en PDF](https://github.com/critramo/DIR-RedHipercubo/Informe.pdf).
+Todos las explicaciones pertinentes del diseño del programa y como ejecutarlo, están reflejadas en el [informe en PDF](https://github.com/critramo/DIR-RedToroide/blob/master/Informe.pdf).
